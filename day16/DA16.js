@@ -141,7 +141,7 @@
         firstName: 'Ashish',
         lastName: 'Moses',
         country: 'India',
-        city: 'Delhi',
+        city: 'Jodhpur',
         email: 'ash@ash.com',
         skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Python'],
         age: 19,
