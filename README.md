@@ -1,1 +1,1 @@
-# JS_20_Streak
+A personal challenge to code in JavaScript for 20 consecutive days. Each day features a small project, challenge, or concept to practice and reinforce JS fundamentals.To build consistency, deepen JS knowledge, and grow through daily practice.
